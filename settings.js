@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
-global.ownername = 'νιнαηgα м∂🧚'
-global.botname = 'νιнαηgα м∂🧚'
-global.footer = 'νιнαηgα м∂🧚.'
+global.owner = ['94703741032']
+global.premium = ['94703741032']
+global.ownernomer = '94703741032'
+global.ownername = 'KAvva M'
+global.botname = 'KAvva M'
+global.footer = 'KAvva M'
 global.ig = 'https://github.com/vihangaabot'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/vihangabot/Gojo-Satoru'
-global.myweb = 'https://youtu.be/Z9rIR0Vopb8'
+global.myweb = 'https://youtube.com'
 global.packname = 'Gojo-Satoru'
-global.author = 'νιнαηgα м∂🧚'
+global.author = 'KAvva M''
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🧚'
